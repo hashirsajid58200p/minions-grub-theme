@@ -7,11 +7,11 @@
 ## 📥 Installation Instructions
 **Step 1: Clone the theme repo**
 ```bash
-git clone 
+git clone https://github.com/hashirsajid58200p/minions-grub-theme.git
 ```
 **Step 2: Go inside the theme folder**
 ```bash
-cd gta-06-poster-01-grub-theme
+cd minions-grub-theme
 ```
 **Step 3. Run the installer script**
 ```bash
